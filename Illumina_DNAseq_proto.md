@@ -1,9 +1,8 @@
 # Illumina Nextera XT kitの手順
 
 Author: 堀之内貴明
+
 E-mail: [takaaki_horinouchi@riken.jp](mailto:takaaki_horinouchi@riken.jp)
-Date: 2025-11-20
-Version: 0.1.0
 
 Ardeaを用いてIllumina Nextera XT DNA library kitを使用してDNA-seqライブラリを作製する
 
@@ -46,3 +45,4 @@ Ardeaを用いてIllumina Nextera XT DNA library kitを使用してDNA-seqライ
 1. Thermal Cyclerで、Tagmentation reaction 02の設定で熱変性反応。
 1. Centrifugeで、96well PCRプレート01を280 × g, 20°C, 60 sec. で遠心する。
 1. Peelerで、96well PCRプレート01のシールをはがす。
+
