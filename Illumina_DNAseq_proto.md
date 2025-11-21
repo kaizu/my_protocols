@@ -39,11 +39,12 @@ Ardeaを用いてIllumina Nextera XT DNA library kitを使用してDNA-seqライ
 1. Thermal Cyclerで、"Tagmentation reaction 01"の設定で熱変性反応。
 1. Centrifugeで、96well PCRプレート01を280 × g, 20°C, 60 sec. で遠心する。
 1. Peelerで、96well PCRプレート01のシールをはがす。
-1. Tagmentation step 01の反応液に Nextera NT buffer 5 μLを分注する（Tagmentation step 02）。
+1. 96well PCRプレート01にNextera NT buffer 5 μLを分注する（Tagmentation step 02）。
 1. Sealerで、96well PCRプレート01にシールする。
 1. Centrifugeで、96well PCRプレート01を280 × g, 20°C, 60 sec. で遠心する。
 1. Thermal Cyclerで、"Tagmentation reaction 02"の設定で熱変性反応。
 1. Centrifugeで、96well PCRプレート01を280 × g, 20°C, 60 sec. で遠心する。
 1. Peelerで、96well PCRプレート01のシールをはがす。
+
 
 
